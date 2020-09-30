@@ -1,4 +1,4 @@
-# References
+# My References
 Compiled links of my references used in my work and hobby that relate to coding.
 
 # Git
@@ -9,8 +9,9 @@ Compiled links of my references used in my work and hobby that relate to coding.
 
 # Python
 ### Changelogs
-* https://pypi.org/project/changelog-cli/
+- https://pypi.org/project/changelog-cli/
 
+### Others
 - [How to structure python projects](https://docs.python-guide.org/writing/structure/)
 - [Importing modules into your Python code](https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder)
 - [Document requirements by writing your unit tests](https://docs.pytest.org/en/latest/)
