@@ -11,6 +11,24 @@ Compiled links of my references used in my work and hobby that relate to coding.
 ### Changelogs
 - https://pypi.org/project/changelog-cli/
 
+### Virtual Environment
+- link here
+
+### Unit Testing
+- link here
+
+### Flask
+- link here
+
+### Serverless
+- link here
+
+### Code Documentation
+- link here
+
+### API Documentation
+- link here
+
 ### Others
 - [How to structure python projects](https://docs.python-guide.org/writing/structure/)
 - [Importing modules into your Python code](https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder)
