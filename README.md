@@ -12,22 +12,34 @@ Compiled links of my references used in my work and hobby that relate to coding.
 - https://pypi.org/project/changelog-cli/
 
 ### Virtual Environment
-- link here
+- https://docs.python.org/3/tutorial/venv.html
 
 ### Unit Testing
-- link here
+- https://docs.pytest.org/en/stable/
+- https://www.guru99.com/pytest-tutorial.html
+- https://realpython.com/pytest-python-testing/
 
 ### Flask
-- link here
+- https://flask.palletsprojects.com/en/1.1.x/
+- https://palletsprojects.com/p/flask/
 
 ### Serverless
-- link here
+- https://www.serverless.com/
+- https://www.serverless.com/blog/flask-python-rest-api-serverless-lambda-dynamodb
 
 ### Code Documentation
-- link here
+- https://www.sphinx-doc.org/en/master/
+- https://docs.python-guide.org/writing/documentation/
+- https://docs.readthedocs.io/en/stable/
 
 ### API Documentation
 - link here
+
+### Web Scraping
+- https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+### Automation
+- https://selenium-python.readthedocs.io/
 
 ### Others
 - [How to structure python projects](https://docs.python-guide.org/writing/structure/)
