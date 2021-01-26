@@ -17,6 +17,7 @@ Compiled links of my references used in my work and hobby that relate to coding.
 - https://docs.pytest.org/en/stable/
 - https://www.guru99.com/pytest-tutorial.html
 - https://realpython.com/pytest-python-testing/
+- (Test Explorer for VSCode)[https://code.visualstudio.com/docs/python/testing]
 
 ### Flask
 - https://flask.palletsprojects.com/en/1.1.x/
