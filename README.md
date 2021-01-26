@@ -41,6 +41,11 @@ Compiled links of my references used in my work and hobby that relate to coding.
 - https://selenium-python.readthedocs.io/
 
 ### Others
+#### How does Python work
+- [Python Program Execution Process](https://www.youtube.com/watch?v=AisW8ZhqUuc)
+- [is Python Compiled or Interpreted Language?](https://www.youtube.com/watch?v=0BhSWyDEDC4)
+
+#### TODO
 - [How to structure python projects](https://docs.python-guide.org/writing/structure/)
 - [Importing modules into your Python code](https://stackoverflow.com/questions/714063/importing-modules-from-parent-folder)
 - [Document requirements by writing your unit tests](https://docs.pytest.org/en/latest/)
