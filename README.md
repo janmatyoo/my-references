@@ -45,6 +45,7 @@ Compiled links of my references used in my work and hobby that relate to coding.
 #### How does Python work
 - [Python Program Execution Process](https://www.youtube.com/watch?v=AisW8ZhqUuc)
 - [is Python Compiled or Interpreted Language?](https://www.youtube.com/watch?v=0BhSWyDEDC4)
+- [How Python Works](https://www.youtube.com/watch?v=-ZPg5lJCln8)
 
 #### TODO
 - [How to structure python projects](https://docs.python-guide.org/writing/structure/)
