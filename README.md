@@ -59,6 +59,8 @@ Compiled links of my references used in my work and hobby that relate to coding.
 - [How to generate string hashes in Python](https://www.pythoncentral.io/hashing-strings-with-python/)
 - [How to add inline code to Lambda Cloudformation Templates](https://stackoverflow.com/a/54877663/7166760)
 
+# Database
+-[What is Database & SQL?](https://www.youtube.com/watch?v=FR4QIeZaPeM)
 
 ## PostgreSQL
 - [How to catch that query that holds onto a table lock](https://hackernoon.com/postgres-idle-queries-and-pg-locks-216b207c3e39)
