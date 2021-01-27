@@ -62,6 +62,9 @@ Compiled links of my references used in my work and hobby that relate to coding.
 # Database
 -[What is Database & SQL?](https://www.youtube.com/watch?v=FR4QIeZaPeM)
 
+# Terraform
+-[Learn Terraform in 10 Minutes Tutorial](https://www.youtube.com/watch?v=UleogrJkZn0)
+
 ## PostgreSQL
 - [How to catch that query that holds onto a table lock](https://hackernoon.com/postgres-idle-queries-and-pg-locks-216b207c3e39)
 
