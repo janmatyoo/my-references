@@ -63,8 +63,8 @@ Compiled links of my references used in my work and hobby that relate to coding.
 - [What is Database & SQL?](https://www.youtube.com/watch?v=FR4QIeZaPeM)
 - [MySQL IN 10 MINUTES (2020) | Introduction to Databases, SQL, & MySQL](https://www.youtube.com/watch?v=2bW3HuaAUcY)
 - [Database Transactions (ACID)](https://www.youtube.com/watch?v=5Pia4UFuMKo)
-- [https://www.youtube.com/watch?v=W2Z7fbCLSTw](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
-- [https://www.youtube.com/watch?v=9lucCvD1Ppc](https://www.youtube.com/watch?v=9lucCvD1Ppc)
+- [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
+- [data model in dbms | DBMS-Data models | Database Models in DBMS](https://www.youtube.com/watch?v=9lucCvD1Ppc)
 - [data model in dbms | DBMS-Data models | Types of Database Models in DBMS](https://www.youtube.com/watch?v=OQanW4NVksY)
 
 # Terraform
