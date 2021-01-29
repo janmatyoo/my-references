@@ -59,6 +59,12 @@ Compiled links of my references used in my work and hobby that relate to coding.
 - [How to generate string hashes in Python](https://www.pythoncentral.io/hashing-strings-with-python/)
 - [How to add inline code to Lambda Cloudformation Templates](https://stackoverflow.com/a/54877663/7166760)
 
+# Data Structures
+- TODO
+
+# Algorithms
+- TODO
+
 # Database
 - [What is Database & SQL?](https://www.youtube.com/watch?v=FR4QIeZaPeM)
 - [MySQL IN 10 MINUTES (2020) | Introduction to Databases, SQL, & MySQL](https://www.youtube.com/watch?v=2bW3HuaAUcY)
