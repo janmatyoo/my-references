@@ -93,3 +93,7 @@ Compiled links of my references used in my work and hobby that relate to coding.
 
 ## Career
 - [Job descriptions and paths of IT-related careers](https://www.cyberdegrees.org)
+
+# Design Patterns
+### Singleton
+- TODO
