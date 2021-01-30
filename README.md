@@ -93,10 +93,12 @@ Compiled links of my references used in my work and hobby that relate to coding.
 
 ## Career
 - [Job descriptions and paths of IT-related careers](https://www.cyberdegrees.org)
+- [10 Ways To Get Better At Coding](https://www.youtube.com/watch?v=GGSmywkXKOE)
 
 # Design Patterns
 ### Object Oriented Programming
 - [What is Object Oriented Programming (OOPS)? Simple Explanation for Beginners](https://www.youtube.com/watch?v=xoL6WvCARJY)
+- [Object Oriented Programming - The Four Pillars of OOP](https://www.youtube.com/watch?v=1ONhXmQuWP8)
 
 ### Singleton
 - TODO
