@@ -95,5 +95,8 @@ Compiled links of my references used in my work and hobby that relate to coding.
 - [Job descriptions and paths of IT-related careers](https://www.cyberdegrees.org)
 
 # Design Patterns
+### Object Oriented Programming
+- [What is Object Oriented Programming (OOPS)? Simple Explanation for Beginners](https://www.youtube.com/watch?v=xoL6WvCARJY)
+
 ### Singleton
 - TODO
