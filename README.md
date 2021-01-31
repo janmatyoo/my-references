@@ -60,7 +60,9 @@ Compiled links of my references used in my work and hobby that relate to coding.
 - [How to add inline code to Lambda Cloudformation Templates](https://stackoverflow.com/a/54877663/7166760)
 
 # Data Structures
-- TODO
+- [Real Life Applications of Data Structures | Log2Base2](https://www.youtube.com/watch?v=d_XvFOkQz5k)
+- [Data Structures & Algorithms #1 - What Are Data Structures?](https://www.youtube.com/watch?v=bum_19loj9A)
+- [DATA STRUCTURES you MUST know (as a Software Developer)](https://www.youtube.com/watch?v=sVxBVvlnJsM)
 
 # Algorithms
 - TODO
@@ -83,7 +85,6 @@ Compiled links of my references used in my work and hobby that relate to coding.
 - [Check the security of your site](https://securityheaders.com)
 - [Adding security headers using Lambda@Edge](https://aws.amazon.com/blogs/networking-and-content-delivery/adding-http-security-headers-using-lambdaedge-and-amazon-cloudfront/)
 
-
 ## Tools
 - [Themes for Visual Studio Code](https://vscodethemes.com)
 - [Terminal Superpowers: Fish Shell](https://fishshell.com/)
@@ -96,9 +97,13 @@ Compiled links of my references used in my work and hobby that relate to coding.
 - [10 Ways To Get Better At Coding](https://www.youtube.com/watch?v=GGSmywkXKOE)
 
 # Design Patterns
-### Object Oriented Programming
+- [Chain, Memento, Mediator... Behavioural Design Patterns 1/2](https://www.youtube.com/watch?v=boCjV6srOlA)
+
+
+# Object Oriented Programming
 - [What is Object Oriented Programming (OOPS)? Simple Explanation for Beginners](https://www.youtube.com/watch?v=xoL6WvCARJY)
 - [Object Oriented Programming - The Four Pillars of OOP](https://www.youtube.com/watch?v=1ONhXmQuWP8)
+- [Python Object Oriented Programming (OOP) - For Beginners](https://www.youtube.com/watch?v=JeznW_7DlB0)
 
 ### Singleton
 - TODO
