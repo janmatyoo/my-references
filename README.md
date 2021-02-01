@@ -97,8 +97,8 @@ Compiled links of my references used in my work and hobby that relate to coding.
 - [10 Ways To Get Better At Coding](https://www.youtube.com/watch?v=GGSmywkXKOE)
 
 # Design Patterns
+- [Design Patterns in Plain English | Mosh Hamedani](https://www.youtube.com/watch?v=NU_1StN5Tkk)
 - [Chain, Memento, Mediator... Behavioural Design Patterns 1/2](https://www.youtube.com/watch?v=boCjV6srOlA)
-
 
 # Object Oriented Programming
 - [What is Object Oriented Programming (OOPS)? Simple Explanation for Beginners](https://www.youtube.com/watch?v=xoL6WvCARJY)
