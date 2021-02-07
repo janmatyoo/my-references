@@ -63,6 +63,7 @@ Compiled links of my references used in my work and hobby that relate to coding.
 - [Real Life Applications of Data Structures | Log2Base2](https://www.youtube.com/watch?v=d_XvFOkQz5k)
 - [Data Structures & Algorithms #1 - What Are Data Structures?](https://www.youtube.com/watch?v=bum_19loj9A)
 - [DATA STRUCTURES you MUST know (as a Software Developer)](https://www.youtube.com/watch?v=sVxBVvlnJsM)
+- [#1 What is Data Structure? | Why it is so Important?](https://www.youtube.com/watch?v=jc1t0KFsOcs)
 
 # Algorithms
 - TODO
