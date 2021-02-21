@@ -75,9 +75,13 @@ Compiled links of my references used in my work and hobby that relate to coding.
 - [7 Database Paradigms](https://www.youtube.com/watch?v=W2Z7fbCLSTw)
 - [data model in dbms | DBMS-Data models | Database Models in DBMS](https://www.youtube.com/watch?v=9lucCvD1Ppc)
 - [data model in dbms | DBMS-Data models | Types of Database Models in DBMS](https://www.youtube.com/watch?v=OQanW4NVksY)
+- [Entity Relationship Diagram (ERD) Tutorial - Part 1](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
+- [What is Normalization in SQL? | Database Normalization Forms - 1NF, 2NF, 3NF, BCNF | Edureka](https://www.youtube.com/watch?v=ABwD8IYByfk)
+- [SQL Index |¦| Indexes in SQL |¦| Database Index](https://www.youtube.com/watch?v=fsG1XaZEa78)
 
 # Terraform
 - [Learn Terraform in 10 Minutes Tutorial](https://www.youtube.com/watch?v=UleogrJkZn0)
+- [Terraform explained in 15 mins | Terraform Tutorial for Beginners](https://www.youtube.com/watch?v=l5k1ai_GBDE)
 
 ## PostgreSQL
 - [How to catch that query that holds onto a table lock](https://hackernoon.com/postgres-idle-queries-and-pg-locks-216b207c3e39)
